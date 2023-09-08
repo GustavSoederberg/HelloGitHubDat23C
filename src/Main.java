@@ -4,6 +4,6 @@ public class Main {
         System.out.println("Hva såååååååå");
         System.out.println("Hej Kea");
         System.out.println("Hej igen igen");
-        System.out.println("hva så");
+        System.out.orintln("Hva så gamle")
     }
 }
